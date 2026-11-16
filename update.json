@@ -1,1 +1,8 @@
-{"version_code": 16, "version_name": "3.4", "apk_url": "https://raw.githubusercontent.com/tradewithmanzoor/harpal-free-tv/main/HarPalFreeTV-v16-test.apk", "notes": "Asli ads ke sath naya version", "app_enabled": true, "website_url": "https://opplextvsubscription.site"}
+{
+  "version_code": 17,
+  "version_name": "3.5",
+  "apk_url": "https://raw.githubusercontent.com/tradewithmanzoor/harpal-free-tv/main/HarPalFreeTV-v17-test.apk",
+  "notes": "8 naye Pakistani channels — ARY News, PTV Sports, Geo Super, A Sports aur mazeed",
+  "app_enabled": true,
+  "website_url": "https://opplextvsubscription.site"
+}
