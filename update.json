@@ -1,8 +1,8 @@
 {
-  "version_code": 22,
-  "version_name": "4.0",
-  "apk_url": "https://raw.githubusercontent.com/tradewithmanzoor/harpal-free-tv/main/HarPalFreeTV-v22-test.apk",
-  "notes": "Naya design — bara Ads box upar, 3,666 channels (band channels saaf)",
+  "version_code": 23,
+  "version_name": "4.1",
+  "apk_url": "https://raw.githubusercontent.com/tradewithmanzoor/harpal-free-tv/main/HarPalFreeTV-v23-test.apk",
+  "notes": "LED/TV par channels ab smooth — halki quality se shuru, khud behtar hoti hai; naye saaf logo",
   "app_enabled": true,
   "website_url": "https://opplextvsubscription.site"
 }
