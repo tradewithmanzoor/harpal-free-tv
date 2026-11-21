@@ -1,8 +1,8 @@
 {
-  "version_code": 23,
-  "version_name": "4.1",
-  "apk_url": "https://raw.githubusercontent.com/tradewithmanzoor/harpal-free-tv/main/HarPalFreeTV-v23-test.apk",
-  "notes": "LED/TV par channels ab smooth — halki quality se shuru, khud behtar hoti hai; naye saaf logo",
+  "version_code": 30,
+  "version_name": "4.8",
+  "apk_url": "https://raw.githubusercontent.com/tradewithmanzoor/harpal-free-tv/main/HarPalFreeTV-v30-test.apk",
+  "notes": "Saare channels check karke saaf list - 2,908 chalte channels; ab channels ki list khud update hogi, band channel ka naya link khud aa jayega",
   "app_enabled": true,
   "website_url": "https://opplextvsubscription.site"
 }
